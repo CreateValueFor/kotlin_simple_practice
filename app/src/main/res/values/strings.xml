@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mirae</string>
+    <string name="tab_text_1">자산</string>
+    <string name="tab_text_2">연금</string>
+    <string name="asset_info">m.All 종료에 따라 MY자산 서비스는 M-STOCK 앱에서 제공됩니다. 자산연결 선택 시 M-STOCK 앱으로 이동합니다.</string>
+</resources>
